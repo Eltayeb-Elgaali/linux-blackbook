@@ -28,13 +28,6 @@ A minimalist, high-density reference of pure Linux commands and syntax. This rep
 - **Atomic Files:** Each file focuses on a single utility or concept.
 - **Copy-Paste Ready:** Commands are formatted to be used immediately in a terminal.
 
----
-
-## ⌨️ Environment Note (AZERTY Layout)
-This repository is maintained on a **Belgian AZERTY** layout. Key shortcuts for common syntax:
-- **Pipe (`|`):** `Option` + `Shift` + `L`
-- **Backslash (`\`):** `Option` + `Shift` + `:`
-- **Tilde (`~`):** `Option` + `n` followed by `Space`
 
 ---
 
