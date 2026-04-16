@@ -34,5 +34,8 @@ groupadd developers
 cat /etc/group
 ```
 ```bash
+groups user-name
+```
+```bash
 usermod -aG developers dev-user
 ```
