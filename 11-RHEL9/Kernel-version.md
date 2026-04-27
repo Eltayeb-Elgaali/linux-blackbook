@@ -1,6 +1,15 @@
-```hostnamectl```
-```uname-r```
-```/etc/os-release```
-```ls /usr/lib/modules/$(uname -r)```
-```echo $NAME```
+```bash
+hostnamectl
+```
+```bash
+uname-r
+```
+```bash
+/etc/os-release
+```
+```bash
+ls /usr/lib/modules/$(uname -r)
+```
+```bash
+echo $NAME```
 
