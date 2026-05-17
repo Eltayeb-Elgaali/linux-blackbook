@@ -14,4 +14,5 @@ ls -lt /usr
 ls -ltr /usr
 ```
 ```bash
-ls -R /etc```
+ls -R /etc
+```
