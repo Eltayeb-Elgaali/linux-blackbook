@@ -2,7 +2,16 @@
 hostnamectl
 ```
 ```bash
-uname-r
+uname -a
+```
+```bash
+uname -r
+```
+```bash
+uname -snvmpio
+```
+```bash
+man uname
 ```
 ```bash
 /etc/os-release
